@@ -8,8 +8,7 @@ import numpy as np
 from datetime import datetime
 from sklearn.model_selection import train_test_split
 from collections import Counter
-sys.path.append('/content/drive/MyDrive/STABLE/helpers')
-from SpaceHandler import SpaceHandler
+from helpers.classes.SpaceHandler import SpaceHandler
 
 class PunctErrorifier(object):
     """

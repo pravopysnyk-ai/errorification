@@ -1,0 +1,7 @@
+transformers
+sentencepiece
+datasets
+evaluate
+spacy_udpipe
+pymorphy2
+pymorphy2-dicts-uk
